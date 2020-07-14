@@ -7,9 +7,8 @@
 ![](https://loryjs.github.io/lory/static/lory.png?style=centerme)
 
 ### Tutorial ótimo aqui: https://www.youtube.com/watch?v=GFcnxlNnC8w
-<style>
+
 img[src$="centerme"] {
   display:block;
   margin: 0 auto;
 }
-</style>
